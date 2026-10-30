@@ -14,7 +14,7 @@ The app stores on the device:
 
 - Project names
 - Purchases, holdings, debts, and notes you enter
-- Bank files you choose to import (CSV, TXT, Excel, OFX, or QFX), read on the phone
+- Bank and brokerage files you choose to import (CSV, TXT, Excel, OFX, or QFX), read on the phone. That includes a bank download and a brokerage file such as a Vanguard activity report or a Schwab positions download.
 - Charts and totals built from those records
 - Settings, such as light or dark appearance
 
